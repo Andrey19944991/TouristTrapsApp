@@ -1,0 +1,8 @@
+.idea
+*.iml
+target
+backend/src/main/resources/uploads
+
+
+
+
